@@ -1,2 +1,11 @@
-# desafio3DIO-ecommerce
-Criação de projeto lógico de Banco de Dados - cenário e-commerce
+DesafioDIO Cenário E-commerce - Projeto Lógico de BD
+
+Para esse projeto, refinei um modelo conceitual de E-commerce (nos arquivos é possível ver o modelo EER antes e depois do refinamento), criei SCRIPTS para a implementação do BD, para o povoamento das tabelas e criei queries SQL com as cláusulas: 
+Recuperações simples com SELECT Statement;
+Filtros com WHERE Statement;
+Crie expressões para gerar atributos derivados;
+Defina ordenações dos dados com ORDER BY e GROUP BY;
+Condições de filtros aos grupos – HAVING Statement;
+Crie junções (JOIN) entre tabelas para fornecer uma perspectiva mais complexa dos dados;
+
+
